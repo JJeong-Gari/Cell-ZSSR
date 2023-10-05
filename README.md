@@ -24,10 +24,6 @@ Dataset Download Link : [Cell dataset](https://zenodo.org/record/1214456#.Zfjjtt
 ![sketch](cell_result.png)
 ----------
 
-## Quick Start
-```
-python run_ZSSR.py
-```
 ### Acknowledgement
 This code is based on [ZSSR](https://github.com/assafshocher/ZSSR). Thanks for the greatest project.
 
